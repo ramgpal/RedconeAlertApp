@@ -4,14 +4,14 @@ This is the Android app associated with an automated live detection system. Upon
 
 ## Snapshots
 
-![Home Screen]([screenshots/home_screen.png](https://drive.google.com/drive/folders/16rgW0EEAV974m2dRReResW5vTnaUaGbi))
+![Home Screen](https://drive.google.com/file/d/1sXrfg4TN33ZR5BVhipal_50DH_dHS_OT/view?usp=sharing)
 *Home Screen*
 
-![Detection Alert](screenshots/detection_alert.png)
+![Detection Alert](https://drive.google.com/file/d/1ZyCXegNeLXHvDRuxRmHeMh2D6be--EF3/view?usp=sharing)
 *Alert Page*
 
-![Settings](screenshots/settings.png)
+![Details](https://drive.google.com/file/d/1hl4PYF1_HYQQzQCBX-PC2rNTcC_tkEsF/view?usp=sharing)
 *Alert Details*
 
-![Settings](screenshots/settings.png)
+![Push Notification](https://drive.google.com/file/d/1rLlKJCQYl3eYuUKL6hHlF3OJrVQi-_g3/view?usp=sharing)
 *Notification*

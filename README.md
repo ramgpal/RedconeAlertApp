@@ -15,3 +15,6 @@ This is the Android app associated with an automated live detection system. Upon
 
 ![Push Notification](https://drive.google.com/uc?export=view&id=1rLlKJCQYl3eYuUKL6hHlF3OJrVQi-_g3)
 *Notification*
+
+
+# Note: All the copyrights of this project are owned by the organization Redcone.

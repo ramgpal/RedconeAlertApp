@@ -1,0 +1,28 @@
+[debug] [2024-05-28T21:01:06.753Z] ----------------------------------------------------------------------
+[debug] [2024-05-28T21:01:06.756Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ramgp\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init functions
+[debug] [2024-05-28T21:01:06.756Z] CLI Version:   13.10.2
+[debug] [2024-05-28T21:01:06.756Z] Platform:      win32
+[debug] [2024-05-28T21:01:06.756Z] Node Version:  v20.13.1
+[debug] [2024-05-28T21:01:06.756Z] Time:          Wed May 29 2024 02:31:06 GMT+0530 (India Standard Time)
+[debug] [2024-05-28T21:01:06.756Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-05-28T21:01:06.763Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-05-28T21:01:06.763Z] > authorizing via signed-in user (ramgpal912@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ramgp\OneDrive\Desktop\Redconefinal
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 

@@ -1,0 +1,11 @@
+/build
+
+*.log
+*.apk
+.gradle/
+*.class
+*.iml
+*.idea/
+*.kt
+*.json
+build/

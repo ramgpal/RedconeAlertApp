@@ -17,4 +17,4 @@ This is the Android app associated with an automated live detection system. Upon
 *Notification*
 
 
-# Note: All the copyrights of this project are owned by the organization Redcone.
+# Note: All the rights of this project are reserved by the organization Redcone.

@@ -5,10 +5,13 @@ This is the Android app associated with an automated live detection system. Upon
 ## Snapshots
 
 ![Home Screen](screenshots/home_screen.png)
-*Description of the home screen snapshot*
+*Home Screen*
 
 ![Detection Alert](screenshots/detection_alert.png)
-*Description of the detection alert snapshot*
+*Alert Page*
 
 ![Settings](screenshots/settings.png)
-*Description of the settings snapshot*
+*Alert Details*
+
+![Settings](screenshots/settings.png)
+*Notification*

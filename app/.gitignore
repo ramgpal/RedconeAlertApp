@@ -6,6 +6,5 @@
 *.class
 *.iml
 *.idea/
-*.kt
 *.json
 build/

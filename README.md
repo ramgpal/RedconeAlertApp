@@ -4,7 +4,7 @@ This is the Android app associated with an automated live detection system. Upon
 
 ## Snapshots
 
-![Home Screen](screenshots/home_screen.png)
+![Home Screen]([screenshots/home_screen.png](https://drive.google.com/drive/folders/16rgW0EEAV974m2dRReResW5vTnaUaGbi))
 *Home Screen*
 
 ![Detection Alert](screenshots/detection_alert.png)
